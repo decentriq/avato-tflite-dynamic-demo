@@ -40,7 +40,7 @@ docker build -t avato-tflite-dynamic-demo .
 Run the container:
 
 ```
-docker run --env-file env.list -p 8888:8888 avato-tflite-dynamic-demo jupyter notebook --ip=0.0.0.0 --no-browser --allow-root
+docker run --env-file env.list -p 8888:8888 avato-tflite-dynamic-demo
 ```
 
 Then open the link (with the correct access token) which is shown in the console.
