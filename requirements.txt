@@ -1,5 +1,5 @@
-avato==0.2.0
-avato-tflite-dynamic==0.1.0
+avato==0.3.0
+avato-tflite-dynamic==0.2.0
 jupyter==1.0.0
 tensorflow==2.1.0
 matplotlib
