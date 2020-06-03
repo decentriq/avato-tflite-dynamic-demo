@@ -85,3 +85,6 @@ ENV/
 env.bak/
 venv.bak/
 .idea
+data/MNIST_model_TF/saved_model.pb
+data/MNIST_model_TF/variables/variables.data-00000-of-00001
+data/MNIST_model_TF/variables/variables.index
